@@ -5,6 +5,10 @@
 
 ## Tecnologias
 <div>
-https://img.shields.io/badge/HTML-Linguagem3-black
-
+[![AGPL License](https://img.shields.io/badge/HTML-Linguagem3-black
+)](http://www.gnu.org/licenses/agpl-3.0)
+[![AGPL License](https://img.shields.io/badge/CSS-Linguagem2-green
+)](http://www.gnu.org/licenses/agpl-3.0)
+[![AGPL License](https://img.shields.io/badge/JavaScript-Linguagem1-blue
+)](http://www.gnu.org/licenses/agpl-3.0)
 </div>
